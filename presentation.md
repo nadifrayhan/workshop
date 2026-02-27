@@ -14,7 +14,7 @@ Before setup, make sure you have:
 - VS code can be downloaded from https://code.visualstudio.com/download
 - Drag and drop the icons to Applications directory (Mac users)
 
-![install](asset/install.png)
+![install](https://raw.githubusercontent.com/nadifrayhan/workshop/main/asset/install.png)
 ---
 
 ## Check Copilot account
@@ -23,7 +23,7 @@ Before setup, make sure you have:
 - Navigate to ‚ÄúCopilot Settings‚Äù
 - Check if already invited to `kredivo` subscription
 
-![copilot_status](asset/copilot_status.png)
+![copilot_status](https://raw.githubusercontent.com/nadifrayhan/workshop/main/asset/copilot_status.png)
 
 ---
 
@@ -38,7 +38,7 @@ Before setup, make sure you have:
 - Return to VS Code
 - Copilot is now active
 
-![copilot_install](asset/copilot_install.png)
+![copilot_install](https://raw.githubusercontent.com/nadifrayhan/workshop/main/asset/copilot_install.png)
 
 ---
 
@@ -52,7 +52,7 @@ Before setup, make sure you have:
 - Open it again and type uv
 - If its showing something like in the image then Congratulations üéâ
 
-![uv_terminal](asset/uv_terminal.png)
+![uv_terminal](https://raw.githubusercontent.com/nadifrayhan/workshop/main/asset/uv_terminal.png)
 
 ---
 
@@ -67,10 +67,10 @@ Before setup, make sure you have:
 ---
 
 ## Setup your copilot tools!
-![alt text](asset/model_selection.png)
+![alt text](https://raw.githubusercontent.com/nadifrayhan/workshop/main/asset/model_selection.png)
 
 
-![alt text](asset/config_tools.png)
+![alt text](https://raw.githubusercontent.com/nadifrayhan/workshop/main/asset/config_tools.png)
 ---
 
 ## LLM Models
@@ -198,7 +198,7 @@ Write so that a new developer to this codebase can understand your writing, don‚
 ---
 
 ## How agents.md works?
-![alt text](asset/agents.png)
+![alt text](https://raw.githubusercontent.com/nadifrayhan/workshop/main/asset/agents.png)
 
 
 ---
@@ -232,9 +232,9 @@ Write so that a new developer to this codebase can understand your writing, don‚
 ## Choose Agent
 - Custom agent created in `.github/agents` will be available as option
 
-![alt text](asset/agents_dir.png)
+![alt text](https://raw.githubusercontent.com/nadifrayhan/workshop/main/asset/agents_dir.png)
 
-![alt text](asset/prd_option.png)
+![alt text](https://raw.githubusercontent.com/nadifrayhan/workshop/main/asset/prd_option.png)
 ---
 
 ## Ideal workflow
